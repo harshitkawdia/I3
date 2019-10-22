@@ -52,8 +52,8 @@ h6 {
   line-height: 1;
   font-size: 16px;
   border-radius: 50%;
-  right: 15px;
-  bottom: 15px;
+  right: 20px;
+  bottom: 20px;
   transition: background 0.5s;
   z-index: 11;
 }
@@ -84,8 +84,8 @@ h6 {
   border: 6px solid #f2f2f2;
   border-top: 6px solid #18d26e;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   -webkit-animation: animate-preloader 1s linear infinite;
   animation: animate-preloader 1s linear infinite;
 }
@@ -229,7 +229,7 @@ h6 {
 }
 
 #intro p {
-  width: 80%;
+  width: 70%;
   margin: 0 auto 30px auto;
   color: #fff;
 }
